@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\app",
+    "\\src\\app\\layouts",
+    "\\src\\app\\layouts\\header",
+    "\\src\\app\\layouts\\sidebar",
+    "\\src\\app\\pages\\dashboard",
+    "\\src\\app\\pages\\dashboard\\week",
+    "\\src\\app\\pages\\dashboard\\week\\asum-week",
+    "\\src\\assets",
+    "\\src\\assets\\css"
+  ],
+  "SelectedNode": "\\src\\app\\layouts\\header\\header.component.css",
+  "PreviewInSolutionExplorer": false
+}
